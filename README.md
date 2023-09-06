@@ -31,6 +31,7 @@
 <img align="left" alt="Pycharm " width="30px" src="https://img.icons8.com/?size=1x&id=vinpBD5oA3b4&format=png" style="padding-right:10px;" />
 <img align="left" alt="Apache Netbeans" width="30px" src="https://img.icons8.com/?size=1x&id=4djt356tq8UO&format=png" style="padding-right:10px;" />
 <img align="left" alt="Anaconda" width="30px" src="https://img.icons8.com/?size=1x&id=F4uMFPZgS0gt&format=png" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 
 <img align="left" alt="AWS" width="30px" src="https://img.icons8.com/?size=1x&id=33039&format=png" style="padding-right:10px;" />
 <img align="left" alt="MS Azure" width="30px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="padding-right:10px;" />
