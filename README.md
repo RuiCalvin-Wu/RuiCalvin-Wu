@@ -12,7 +12,7 @@
 - 🤝 I’m looking forward to develope and deploy **my own personal 'ABOUT ME' website**
 - 👨‍💻 All of my projects are available at (...will be released soon...)
 - 📫 How to reach me **calvinrxw222[at]gmail[dot]com**
-- 📄 I have hands-on experience with: [AWS services and still learning more...](AWS services and still learning more...)
+- 📄 I have hands-on experience with: (AWS services and still learning more...)
 
 
 
