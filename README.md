@@ -29,46 +29,14 @@
 <img align="left" alt="Anaconda" width="30px" src="https://img.icons8.com/?size=1x&id=F4uMFPZgS0gt&format=png" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 
-<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/?size=1x&id=33039&format=png" style="padding-right:10px;" />
+<!--<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/?size=1x&id=33039&format=png" style="padding-right:10px;" />
 <img align="left" alt="MS Azure" width="30px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="GCP" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="GCP" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/?size=1x&id=13679&format=png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/?size=1x&id=13441&format=png" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="30px" src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" style="padding-right:10px;" />
+<!--<img align="left" alt="Pandas" width="30px" src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" style="padding-right:10px;" />-->
 <img align="left" alt="OpenCV" width="30px" src="https://img.icons8.com/?size=1x&id=apebs8fnmi4m&format=png" style="padding-right:10px;" />
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />   <br>   
-
-
----       
-
-
-<details>
-  <summary>⚡: GitHub Stats</summary>
-
-  ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruicalvin-wu&show_icons=true&theme=radical)
-
-</details>
-
-
-<details>
-  <summary>🔥: GitHub Streaks</summary>
-
-  ![Calvin's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ruicalvin-wu&show_icons=true&theme=radical)
-  
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> -->   
 
