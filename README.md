@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rui Wu</h1>
-<h3 align="center">Driven and passionate BSc Computer Science & Applied Statistics student | University of Cape Town, pursuing in the deep learning with focus on machine learning career.</h3>
+<h3 align="center">Driven and passionate BSc Computer Science & Statistical Science student | University of Cape Town, pursuing in the deep learning with focus on machine learning career.</h3>
 <img align="right" alt="~ Machine Learning ~" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 
