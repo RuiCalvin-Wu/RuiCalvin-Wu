@@ -6,7 +6,7 @@
 
 # Me:
 
-- 🌱 I’m currently a student majoring in **Computer Science and Statistics**
+- 🌱 I’m currently a student majoring in **Computer Science and Statistics** at University of Cape Town in South Africa
 - 👨‍💻 All of my projects are available at (...will be released soon...)
 - 📫 How to reach me **calvinrxw222[at]gmail[dot]com**
 
