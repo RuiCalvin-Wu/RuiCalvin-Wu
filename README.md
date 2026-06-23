@@ -51,6 +51,8 @@
 <p align="left">
   <img alt="AWS" width="35px" src="https://img.icons8.com/?size=1x&id=33039&format=png" style="padding-right:10px;" />
   <img alt="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" style="padding-right:10px;" />
+  <img alt="Vercel" width="35px" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" style="padding-right:10px;" />
+  <img alt="Bitbucket" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" />
   <img alt="Git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
   <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 </p>
@@ -59,6 +61,7 @@
 <p align="left">
   <img alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
+  <img alt="Claude Code" width="35px" src="https://img.icons8.com/color/48/claude-ai.png" style="padding-right:10px;" />
   <img alt="Anaconda" width="35px" src="https://img.icons8.com/?size=1x&id=F4uMFPZgS0gt&format=png" style="padding-right:10px;" />
   <img alt="macOS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
 </p>
