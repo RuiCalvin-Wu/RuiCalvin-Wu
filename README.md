@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/calvinrxw)
 
 <h1 align="center">Hi 👋, I'm Calvin</h1>
-<h3 align="center">Full-Stack Developer · Incoming MSc IT Management @ HKBU · Fintech & AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer · MSc IT Management @ HKBU · Fintech & AI Enthusiast</h3>
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
