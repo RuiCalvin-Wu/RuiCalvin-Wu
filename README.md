@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/calvinrxw)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/RuiCalvin-Wu)
 
 <h1 align="center">Hi 👋, I'm Calvin</h1>
-<h3 align="center">Full-Stack Developer · MSc IT Management @ HKBU · Fintech & AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer · Incoming MSc IT Management @ HKBU · Fintech & AI Enthusiast</h3>
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
@@ -13,6 +13,7 @@
 - 🚀 Currently building enterprise-grade tools with **Angular · ASP.NET Core · SQL Server**
 - ☁️ Pursuing **AWS Cloud Practitioner** & **Solutions Architect** certifications
 - 🌏 Relocating to **Hong Kong** in August 2026
+- 🌐 Portfolio — **[rui-xuan-calvin-wu.me](https://rui-xuan-calvin-wu.me)** · [Source on GitHub](https://github.com/RuiCalvin-Wu/portfolio)
 - 📫 Reach me at **calvinrxw222[at]gmail[dot]com**
 
 ---
@@ -81,13 +82,13 @@ Starting my **MSc in IT Management at Hong Kong Baptist University** in late 202
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calvinrxw&show_icons=true&theme=tokyonight&hide_border=true" alt="Calvin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RuiCalvin-Wu&show_icons=true&theme=tokyonight&hide_border=true" alt="Calvin's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinrxw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiCalvin-Wu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=calvinrxw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RuiCalvin-Wu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
