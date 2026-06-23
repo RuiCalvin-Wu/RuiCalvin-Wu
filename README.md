@@ -31,39 +31,38 @@
 
 ### Languages
 <p align="left">
-  <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-  <img alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-  <img alt="Python" width="35px" src="https://img.icons8.com/?size=1x&id=13441&format=png" style="padding-right:10px;" />
-  <img alt="Java" width="35px" src="https://img.icons8.com/?size=1x&id=13679&format=png" style="padding-right:10px;" />
-  <img alt="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
+  <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.python.org" target="_blank"><img alt="Python" width="35px" src="https://img.icons8.com/?size=1x&id=13441&format=png" style="padding-right:10px;" /></a>
+  <a href="https://www.java.com" target="_blank"><img alt="Java" width="35px" src="https://img.icons8.com/?size=1x&id=13679&format=png" style="padding-right:10px;" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" /></a>
 </p>
 
 ### Frameworks & Platforms
 <p align="left">
-  <img alt="Angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" style="padding-right:10px;" />
-  <img alt=".NET Core" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
-  <img alt="SQL Server" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
-  <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  <img alt="Jupyter" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
+  <a href="https://angular.dev" target="_blank"><img alt="Angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://dotnet.microsoft.com" target="_blank"><img alt=".NET Core" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="SQL Server" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" /></a>
+  <a href="https://nodejs.org" target="_blank"><img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://jupyter.org" target="_blank"><img alt="Jupyter" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" /></a>
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <img alt="AWS" width="35px" src="https://img.icons8.com/?size=1x&id=33039&format=png" style="padding-right:10px;" />
-  <img alt="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" style="padding-right:10px;" />
-  <img alt="Vercel" width="35px" src="https://cdn.simpleicons.org/vercel/white" style="padding-right:10px;" />
-  <img alt="Bitbucket" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" />
-  <img alt="Git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
-  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+  <a href="https://aws.amazon.com" target="_blank"><img alt="AWS" width="35px" src="https://img.icons8.com/?size=1x&id=33039&format=png" style="padding-right:10px;" /></a>
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"><img alt="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://vercel.com" target="_blank"><img alt="Vercel" width="35px" src="https://cdn.simpleicons.org/vercel/white" style="padding-right:10px;" /></a>
+  <a href="https://bitbucket.org" target="_blank"><img alt="Bitbucket" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://git-scm.com" target="_blank"><img alt="Git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" /></a>
+  <a href="https://github.com" target="_blank"><img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" /></a>
 </p>
 
 ### Tools & IDEs
 <p align="left">
-  <img alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  <img alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
-  <img alt="Claude Code" width="35px" src="https://cdn.simpleicons.org/anthropic/white" style="padding-right:10px;" />
-  <img alt="Anaconda" width="35px" src="https://img.icons8.com/?size=1x&id=F4uMFPZgS0gt&format=png" style="padding-right:10px;" />
-  <img alt="macOS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
+  <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://visualstudio.microsoft.com" target="_blank"><img alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" /></a>
+  <a href="https://claude.ai/code" target="_blank"><img alt="Claude Code" width="35px" src="https://devicons.io/devicons/icons/claude-code.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" width="35px" src="https://img.icons8.com/?size=1x&id=F4uMFPZgS0gt&format=png" style="padding-right:10px;" /></a>
 </p>
 
 ---
