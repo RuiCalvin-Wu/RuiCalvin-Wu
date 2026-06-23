@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 <h3 align="center">Full-Stack Developer · Incoming MSc IT Management @ HKBU · Fintech & AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
-
 ## About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 - 🎓 BSc Computer Science & Information Systems — **University of Cape Town**
 - 🏫 Incoming **MSc Information Technology Management** — Hong Kong Baptist University *(2026/27)*
@@ -15,6 +17,13 @@
 - 🌏 Relocating to **Hong Kong** in August 2026
 - 🌐 Portfolio — **[rui-xuan-calvin-wu.me](https://rui-xuan-calvin-wu.me)** · [Source on GitHub](https://github.com/RuiCalvin-Wu/portfolio)
 - 📫 Reach me at **calvinrxw222[at]gmail[dot]com**
+
+</td>
+<td valign="top" width="45%">
+<img alt="Coding" width="100%" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" />
+</td>
+</tr>
+</table>
 
 ---
 
