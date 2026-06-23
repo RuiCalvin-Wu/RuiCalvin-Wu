@@ -1,79 +1,93 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/calvinrxw)
 
 <h1 align="center">Hi 👋, I'm Calvin</h1>
+<h3 align="center">Full-Stack Developer · Incoming MSc IT Management @ HKBU · Fintech & AI Enthusiast</h3>
 
-<h3 align="center">
-Master’s Student in Computer Science & Information Systems | University of Cape Town <br>
-Software Developer & ML Enthusiast | Experience across academia and industry | Based in South Africa & Hong Kong exposure
-</h3>
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
-<img align="right" alt="Machine Learning" width="380" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+## About Me
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Currently pursuing a **Master’s degree in Computer Science & Information Systems** at the University of Cape Town  
-- 💼 I have **professional work experience in software development / technical projects**  
-- 🌏 International exposure through work/study experience in **Hong Kong**  
-- 🧠 Passionate about **machine learning, data systems, and scalable software engineering**
-- 🚀 Focused on building impactful, real-world applications using data and intelligent systems  
-- 📫 Reach me at: **calvinrxw222[at]gmail[dot]com**
+- 🎓 BSc Computer Science & Information Systems — **University of Cape Town**
+- 🏫 Incoming **MSc Information Technology Management** — Hong Kong Baptist University *(2026/27)*
+- 💼 Full-Stack Developer at **Absolute Systems (Pty) Ltd.**, Johannesburg
+- 🚀 Currently building enterprise-grade tools with **Angular · ASP.NET Core · SQL Server**
+- ☁️ Pursuing **AWS Cloud Practitioner** & **Solutions Architect** certifications
+- 🌏 Relocating to **Hong Kong** in August 2026
+- 📫 Reach me at **calvinrxw222[at]gmail[dot]com**
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-### 💻 Languages
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/?size=1x&id=13441&format=png" />
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/?size=1x&id=13679&format=png" />
+### Languages
+<p align="left">
+  <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+  <img alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+  <img alt="Python" width="35px" src="https://img.icons8.com/?size=1x&id=13441&format=png" style="padding-right:10px;" />
+  <img alt="Java" width="35px" src="https://img.icons8.com/?size=1x&id=13679&format=png" style="padding-right:10px;" />
+  <img alt="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
+</p>
 
-<br><br>
+### Frameworks & Platforms
+<p align="left">
+  <img alt="Angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" style="padding-right:10px;" />
+  <img alt=".NET Core" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
+  <img alt="SQL Server" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
+  <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+  <img alt="Jupyter" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
+</p>
 
-### ⚙️ Development Tools
-<img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="IntelliJ" width="30px" src="https://img.icons8.com/?size=1x&id=61466&format=png" />
-<img align="left" alt="PyCharm" width="30px" src="https://img.icons8.com/?size=1x&id=vinpBD5oA3b4&format=png" />
-<img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+### Cloud & DevOps
+<p align="left">
+  <img alt="AWS" width="35px" src="https://img.icons8.com/?size=1x&id=33039&format=png" style="padding-right:10px;" />
+  <img alt="Azure DevOps" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" style="padding-right:10px;" />
+  <img alt="Git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
+  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+</p>
 
-<br><br>
-
-### 📊 ML / Data / Libraries
-<img align="left" alt="OpenCV" width="30px" src="https://img.icons8.com/?size=1x&id=apebs8fnmi4m&format=png" />
-
-<br><br>
+### Tools & IDEs
+<p align="left">
+  <img alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <img alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
+  <img alt="Anaconda" width="35px" src="https://img.icons8.com/?size=1x&id=F4uMFPZgS0gt&format=png" style="padding-right:10px;" />
+  <img alt="macOS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
+</p>
 
 ---
 
-## 🚀 Experience Highlights
+## 🔭 What I've Been Building
 
-- 💼 Software development & technical project experience (academic + professional environments)  
-- 🧠 Applied machine learning and data-driven problem solving in real-world contexts  
-- 🌏 Cross-cultural collaboration and experience in **Hong Kong-based environments**  
-- ⚙️ Building scalable systems with a focus on performance and usability  
+- **SecureSupportApp** — Internal admin support tool for enterprise operations (Angular + ASP.NET Core + SQL Server), including CI/CD pipeline automation via Azure DevOps
+- **TIP Reporting Application** — Data reporting tool built for internal stakeholders
+- **Azure DevOps Pipelines** — YAML-based CI/CD configuration for IIS deployment and multi-environment SQL Server migrations
 
 ---
 
-## 📂 Projects
+## 📚 Currently Learning & Exploring
 
-> 🚧 Portfolio projects are being curated and will be released soon
+- AI Engineering, LLMs, and MLOps for fintech applications
+- AWS Cloud architecture (Cloud Practitioner → Solutions Architect track)
+- API design patterns and system design at scale
+- IT Management strategy for the Asia-Pacific market
 
-- 🔹 Machine Learning / AI project (coming soon)  
-- 🔹 Full-stack application (coming soon)  
-- 🔹 Data analysis / visualization project (coming soon)  
+---
+
+## 🎯 What's Next
+
+Starting my **MSc in IT Management at Hong Kong Baptist University** in late 2026, with a focus on bridging software engineering, AI strategy, and business — particularly within fintech and financial services.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=calvinrxw&show_icons=true&theme=tokyonight&hide_border=true" alt="Calvin's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinrxw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Contact
-
-- Email: calvinrxw222[at]gmail[dot]com  
-- Portfolio: coming soon  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=calvinrxw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
